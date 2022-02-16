@@ -1,1 +1,1 @@
-## This repository includes DSA based real life porjects.
+## This repository includes DSA based real world projects.
